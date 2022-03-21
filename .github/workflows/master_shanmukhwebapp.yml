@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'shanmukhwebapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3DAA649C9674417E9015F2651E34BA38 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CEDE8AD5B4C84E1BB4B402D4A017F24A }}
           package: .
